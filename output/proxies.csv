@@ -1,24 +1,22 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,198.199.86.11,3128,198.199.86.11:3128,Elite,146,US,United States,North Bergen,"DigitalOcean, LLC",198.199.86.11
-http,209.97.150.167,3128,209.97.150.167:3128,Elite,174,US,United States,Clifton,"DigitalOcean, LLC",209.97.150.167
-http,107.167.18.122,443,107.167.18.122:443,Elite,285,US,United States,Los Angeles,Sharktech,107.167.18.99
-http,43.173.120.13,8899,43.173.120.13:8899,Elite,487,US,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,43.173.120.13
-http,69.168.225.235,3128,69.168.225.235:3128,Elite,574,DE,Germany,Frankfurt am Main,Virtuozzo International GmbH,69.168.225.235
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,576,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,65.109.218.174,8443,65.109.218.174:8443,Elite,749,FI,Finland,Helsinki,Hetzner Online GmbH,65.109.218.174
-http,151.241.221.165,8888,151.241.221.165:8888,Elite,810,FI,Finland,Helsinki,Hostkey B.V.,151.241.221.165
-http,128.199.202.122,8080,128.199.202.122:8080,Elite,1025,SG,Singapore,Singapore,"DigitalOcean, LLC",128.199.202.122
-http,4.144.146.21,80,4.144.146.21:80,Elite,1041,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
-http,130.110.103.245,3128,130.110.103.245:3128,Elite,1103,SA,Saudi Arabia,Jeddah,Oracle Corporation,130.110.103.245
-http,184.75.221.82,3118,184.75.221.82:3118,Elite,1124,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
-http,196.179.234.18,8989,196.179.234.18:8989,Elite,1171,TN,Tunisia,Sousse,ooredoo TN,196.179.234.18
-http,102.244.78.61,8080,102.244.78.61:8080,Elite,1222,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8090,102.244.78.61:8090,Elite,1232,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
-http,89.36.160.2,3128,89.36.160.2:3128,Elite,1305,PL,Poland,Warsaw,Melbikomas UAB,89.36.160.2
-http,23.138.88.1,999,23.138.88.1:999,Elite,1372,PR,Puerto Rico,Adjuntas,Alphanet Corp,23.138.88.1
-http,49.151.184.88,8082,49.151.184.88:8082,Elite,1593,PH,Philippines,Clark Freeport Zone,Philippine Long Distance Telephone Co.,49.151.184.88
-http,177.184.195.168,8080,177.184.195.168:8080,Elite,1711,BR,Brazil,Brasília,Wireless Comm Services LTDA,187.62.210.8
-http,157.100.12.154,999,157.100.12.154:999,Elite,1980,EC,Ecuador,Guayaquil,Telconet S.A,157.100.12.155
-http,165.154.162.73,8888,165.154.162.73:8888,Elite,2053,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
-http,165.154.7.156,8888,165.154.7.156:8888,Elite,2205,HK,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.7.156
-http,198.15.30.114,8080,198.15.30.114:8080,Elite,2366,ID,Indonesia,Pamekasan,PT Trimafa Computindo Networking,198.15.30.114
+http,108.61.29.163,10001,108.61.29.163:10001,Elite,65,US,United States,Piscataway,The Constant Company,108.61.29.163
+http,159.89.239.204,10000,159.89.239.204:10000,Elite,67,US,United States,North Bergen,"DigitalOcean, LLC",159.89.239.204
+http,159.89.87.80,10000,159.89.87.80:10000,Elite,181,US,United States,North Bergen,"DigitalOcean, LLC",159.89.87.80
+http,107.167.18.122,443,107.167.18.122:443,Elite,290,US,United States,Los Angeles,Sharktech,107.167.18.99
+http,43.173.120.13,8899,43.173.120.13:8899,Elite,327,US,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,43.173.120.13
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,454,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,91.92.155.207,3128,91.92.155.207:3128,Elite,524,CH,Switzerland,Zurich,Akenes SA,91.92.155.207
+http,65.109.218.174,8443,65.109.218.174:8443,Elite,668,FI,Finland,Helsinki,Hetzner Online GmbH,65.109.218.174
+http,196.179.234.18,8989,196.179.234.18:8989,Elite,732,TN,Tunisia,Sousse,ooredoo TN,196.179.234.18
+http,143.244.160.252,10000,143.244.160.252:10000,Elite,929,US,United States,North Bergen,"DigitalOcean, LLC",143.244.160.252
+http,165.154.7.156,8888,165.154.7.156:8888,Elite,1033,HK,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.7.156
+http,4.144.146.21,80,4.144.146.21:80,Elite,1160,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,213.163.198.77,8080,213.163.198.77:8080,Elite,1179,SG,Singapore,Singapore,UpCloud Ltd,213.163.198.77
+http,147.139.173.50,7777,147.139.173.50:7777,Elite,1238,ID,Indonesia,Jakarta,Alibaba Cloud LLC,147.139.173.50
+http,178.92.72.68,8080,178.92.72.68:8080,Elite,1245,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.68
+http,102.244.78.61,8090,102.244.78.61:8090,Elite,1359,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
+http,210.211.113.37,80,210.211.113.37:80,Elite,1450,VN,Vietnam,Ho Chi Minh City,VTDC,210.211.113.37
+http,119.202.84.129,8080,119.202.84.129:8080,Elite,1480,KR,South Korea,Pohang,Korea Telecom,119.202.84.129
+http,165.154.162.73,8888,165.154.162.73:8888,Elite,1779,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
+http,38.7.195.52,999,38.7.195.52:999,Elite,1861,CL,Chile,Santiago,Grupo ZGH SpA,151.241.85.26
+http,65.109.219.108,2000,65.109.219.108:2000,Elite,1990,FI,Finland,Helsinki,Hetzner Online GmbH,65.109.219.108
