@@ -1,22 +1,35 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,184.75.221.82,3118,184.75.221.82:3118,Elite,300,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
-http,181.78.195.137,999,181.78.195.137:999,Elite,620,EC,Ecuador,Guayaquil,Ufinet Panama S.A.,181.78.195.137
-http,31.214.245.238,8080,31.214.245.238:8080,Elite,642,DE,Germany,Münster,ZAP-Hosting GmbH,31.214.245.238
-http,51.170.133.249,80,51.170.133.249:80,Elite,745,MA,Morocco,Casablanca,Oracle Corporation,51.170.133.249
-http,89.58.42.118,3129,89.58.42.118:3129,Elite,756,DE,Germany,Nuremberg,netcup GmbH,89.58.42.118
-http,95.3.69.222,8080,95.3.69.222:8080,Elite,1034,TR,Türkiye,Istanbul,Turk Telekomunikasyon Anonim Sirketi,95.3.69.222
-http,165.225.113.214,11589,165.225.113.214:11589,Elite,1089,SG,Singapore,Singapore,"ZSCALER, INC.",165.225.113.214
-http,222.167.236.42,8080,222.167.236.42:8080,Elite,1106,TR,Turkey,Kilis,High Speed For Internet Services L.L.C,222.167.236.42
-http,181.209.39.90,999,181.209.39.90:999,Elite,1110,AR,Argentina,Benavídez,ARSAT - Empresa Argentina de Soluciones Satelitales S.A,181.209.39.90
-http,102.244.78.61,8083,102.244.78.61:8083,Elite,1245,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8080,102.244.78.61:8080,Elite,1254,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8090,102.244.78.61:8090,Elite,1291,??,Unknown,-,-,102.244.78.57
-http,43.109.48.179,9999,43.109.48.179:9999,Elite,1403,VN,Vietnam,Hanoi,"Zhejiang Taobao Network Co., Ltd",43.109.48.179
-http,163.227.146.38,8080,163.227.146.38:8080,Elite,1441,ID,Indonesia,Cianjur,PT EXA TELEKOMUNIKASI NUSANTARA,163.227.146.38
-http,150.241.245.249,8080,150.241.245.249:8080,Elite,1487,IN,India,Bengaluru,Micro Hosting Private Limited,150.241.245.249
-http,154.201.126.245,8080,154.201.126.245:8080,Elite,1646,IN,India,Noida,CtrlS,154.201.126.245
-http,102.244.78.61,8089,102.244.78.61:8089,Elite,1954,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
-http,160.187.174.71,8080,160.187.174.71:8080,Elite,2163,ID,Indonesia,Deli Serdang,PT Netindo Persada Nusantara,144.79.37.135
-http,144.31.146.195,8080,144.31.146.195:8080,Elite,2232,IN,India,Mumbai,Micro Hosting Private Limited,144.31.146.195
-http,103.26.176.25,8080,103.26.176.25:8080,Elite,2350,ID,Indonesia,Jatibarang,PT Lintas Jaringan Nusantara,103.26.176.25
-http,38.194.246.34,999,38.194.246.34:999,Elite,2475,MX,Mexico,Los Ramírez,IENTC S de RL de CV,38.194.246.34
+http,184.75.221.82,3118,184.75.221.82:3118,Elite,92,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
+http,107.167.18.122,443,107.167.18.122:443,Elite,297,US,United States,Los Angeles,Sharktech,107.167.18.99
+http,47.254.36.25,11080,47.254.36.25:11080,Elite,342,US,United States,Minkler,Alibaba Cloud LLC,47.254.36.25
+http,43.173.120.13,8899,43.173.120.13:8899,Elite,355,US,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,43.173.120.13
+http,5.253.63.112,443,5.253.63.112:443,Elite,440,NL,The Netherlands,Amsterdam,Hostkey B.V.,5.253.63.112
+http,185.73.39.118,9999,185.73.39.118:9999,Elite,457,GB,United Kingdom,London,"Atlantic.net, Inc.",185.73.39.118
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,472,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,89.58.42.118,3129,89.58.42.118:3129,Elite,511,DE,Germany,Nuremberg,netcup GmbH,89.58.42.118
+http,165.154.162.73,8888,165.154.162.73:8888,Elite,569,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
+http,65.109.215.187,8090,65.109.215.187:8090,Elite,611,FI,Finland,Helsinki,Hetzner Online GmbH,65.109.215.187
+http,51.170.133.249,80,51.170.133.249:80,Elite,910,MA,Morocco,Casablanca,Oracle Corporation,51.170.133.249
+http,161.33.8.226,1314,161.33.8.226:1314,Elite,920,JP,Japan,Osaka,Oracle Corporation,161.33.8.226
+http,138.121.113.12,8787,138.121.113.12:8787,Elite,945,AR,Argentina,Formosa,Refsa Telecomunicaciones,138.121.113.13
+http,178.92.72.154,8080,178.92.72.154:8080,Elite,1008,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.154
+http,102.244.78.61,8082,102.244.78.61:8082,Elite,1125,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
+http,102.244.78.61,8086,102.244.78.61:8086,Elite,1128,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8083,102.244.78.61:8083,Elite,1133,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8090,102.244.78.61:8090,Elite,1173,??,Unknown,-,-,102.244.78.57
+http,8.215.25.3,2080,8.215.25.3:2080,Elite,1185,ID,Indonesia,Jakarta,"Alibaba (US) Technology Co., Ltd.",8.215.25.3
+http,45.43.60.220,8080,45.43.60.220:8080,Elite,1219,JP,Japan,Tokyo,Zenlayer Inc,45.43.60.220
+http,178.92.72.162,8080,178.92.72.162:8080,Elite,1237,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.162
+http,210.211.113.35,80,210.211.113.35:80,Elite,1320,VN,Vietnam,Ho Chi Minh City,VTDC,210.211.113.35
+http,182.52.102.34,8080,182.52.102.34:8080,Elite,1362,TH,Thailand,Khwaeng Thung Song Hong,TOT Public Company Limited,182.52.102.34
+http,102.244.78.61,8085,102.244.78.61:8085,Elite,1386,??,Unknown,-,-,102.244.78.57
+http,8.220.189.51,8118,8.220.189.51:8118,Elite,1448,PH,Philippines,Manila,"Alibaba (US) Technology Co., Ltd.",8.220.189.51
+http,210.211.113.33,80,210.211.113.33:80,Elite,1461,VN,Vietnam,Ho Chi Minh City,VTDC,210.211.113.33
+http,111.119.162.248,10922,111.119.162.248:10922,Elite,1535,PK,Pakistan,Tando Adam,Connect Communication,47.91.110.1
+http,8.219.97.248,80,8.219.97.248:80,Elite,1597,SG,Singapore,Singapore,Alibaba Cloud (Singapore) Private Limited,8.219.64.236
+http,163.181.207.170,9999,163.181.207.170:9999,Elite,1637,VN,Vietnam,Hanoi,"Zhejiang Taobao Network Co., Ltd",163.181.207.170
+http,103.82.20.76,8080,103.82.20.76:8080,Elite,1926,VN,Vietnam,Dich Vong,INETACADEMY,42.113.64.223
+http,89.43.132.250,8080,89.43.132.250:8080,Elite,1957,SY,Syria,Idlib,High Speed For Internet Services L.L.C,89.43.132.250
+http,213.171.212.110,8080,213.171.212.110:8080,Elite,2153,GB,United Kingdom,Worcester,IONOS SE,213.171.212.110
+http,103.48.70.200,84,103.48.70.200:84,Elite,2329,IN,India,Hyderabad,Country Online Services PVT LTD,103.48.71.54
+http,205.235.1.34,999,205.235.1.34:999,Elite,2418,EC,Ecuador,Guayaquil,Telecu Telecomunicaciones Del Ecuador Telecusa S.A.S.,181.78.195.137
