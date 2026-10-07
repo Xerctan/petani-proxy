@@ -1,46 +1,51 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,107.167.18.122,443,107.167.18.122:443,Elite,113,US,United States,Los Angeles,Sharktech,107.167.18.99
-http,43.173.120.13,8899,43.173.120.13:8899,Elite,212,US,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,43.173.120.13
-http,34.43.46.91,80,34.43.46.91:80,Elite,262,??,Unknown,-,-,34.143.51.195
-http,34.43.46.91,443,34.43.46.91:443,Elite,270,US,United States,Mountain View,Google LLC,34.143.33.137
-http,184.75.221.82,3118,184.75.221.82:3118,Elite,286,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
-http,185.4.114.35,8080,185.4.114.35:8080,Elite,615,NL,The Netherlands,Utrecht,Ymor Network,185.4.114.35
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,625,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,151.243.153.157,8118,151.243.153.157:8118,Elite,659,US,United States,Seattle,Black Apple,151.243.153.157
-http,65.109.215.187,8090,65.109.215.187:8090,Elite,796,FI,Finland,Helsinki,Hetzner Online GmbH,65.109.215.187
-http,94.103.82.138,8889,94.103.82.138:8889,Elite,878,NL,The Netherlands,Amsterdam,Servers Tech Fzco,94.103.82.138
-http,4.144.146.21,80,4.144.146.21:80,Elite,957,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
-http,165.22.99.36,8011,165.22.99.36:8011,Elite,961,SG,Singapore,Singapore,"DigitalOcean, LLC",165.22.99.36
-http,178.92.72.165,8080,178.92.72.165:8080,Elite,1211,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.165
-http,178.92.72.194,8080,178.92.72.194:8080,Elite,1216,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.194
-http,163.181.207.215,9999,163.181.207.215:9999,Elite,1265,VN,Vietnam,Hanoi,"Zhejiang Taobao Network Co., Ltd",163.181.207.215
-http,163.181.207.170,9999,163.181.207.170:9999,Elite,1280,VN,Vietnam,Hanoi,"Zhejiang Taobao Network Co., Ltd",163.181.207.170
-http,185.250.249.181,8443,185.250.249.181:8443,Elite,1390,DE,Germany,Germering,IP- www.ip-projects.de,185.250.249.181
-http,102.244.78.61,8082,102.244.78.61:8082,Elite,1416,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8080,102.244.78.61:8080,Elite,1425,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8086,102.244.78.61:8086,Elite,1428,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8085,102.244.78.61:8085,Elite,1429,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8088,102.244.78.61:8088,Elite,1432,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8083,102.244.78.61:8083,Elite,1434,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
-http,102.244.78.61,8084,102.244.78.61:8084,Elite,1436,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8081,102.244.78.61:8081,Elite,1441,??,Unknown,-,-,102.244.78.57
-http,102.244.78.61,8087,102.244.78.61:8087,Elite,1448,??,Unknown,-,-,102.244.78.57
-http,203.205.49.2,10075,203.205.49.2:10075,Elite,1453,VN,Vietnam,Mai Dich,CMC Telecom Infrastructure Company,203.205.49.78
-http,102.244.78.61,8089,102.244.78.61:8089,Elite,1455,??,Unknown,-,-,102.244.78.57
-http,111.119.162.248,10914,111.119.162.248:10914,Elite,1464,??,Unknown,-,-,47.237.48.65
-http,102.244.78.61,8090,102.244.78.61:8090,Elite,1478,??,Unknown,-,-,102.244.78.57
-http,111.119.162.248,10915,111.119.162.248:10915,Elite,1481,??,Unknown,-,-,47.237.48.66
-http,194.182.178.90,3128,194.182.178.90:3128,Elite,1577,BG,Bulgaria,Sofia,Akenes SA,194.182.178.90
-http,205.235.1.34,999,205.235.1.34:999,Elite,1784,EC,Ecuador,Guayaquil,Telecu Telecomunicaciones Del Ecuador Telecusa S.A.S.,181.78.195.137
-http,111.119.162.248,10905,111.119.162.248:10905,Elite,1835,??,Unknown,-,-,47.90.219.252
-http,62.72.43.79,3129,62.72.43.79:3129,Elite,1873,IN,India,Mumbai,Contabo Asia Private Limited,83.147.217.103
-http,147.15.126.122,28080,147.15.126.122:28080,Elite,1938,BR,Brazil,São Paulo,Oracle Corporation,147.15.126.122
-http,45.43.60.220,8080,45.43.60.220:8080,Elite,1963,JP,Japan,Tokyo,Zenlayer Inc,45.43.60.220
-http,111.119.162.248,10919,111.119.162.248:10919,Elite,1995,??,Unknown,-,-,8.220.151.118
-http,111.119.162.248,10982,111.119.162.248:10982,Elite,2089,??,Unknown,-,-,193.29.139.234
-http,103.97.140.127,3125,103.97.140.127:3125,Elite,2117,ID,Indonesia,Cianjur,PT Jembatan Data Pangrango,103.97.140.127
-http,111.119.162.248,10916,111.119.162.248:10916,Elite,2140,??,Unknown,-,-,47.254.157.156
-http,95.211.47.55,8088,95.211.47.55:8088,Elite,2160,NL,The Netherlands,Haarlem,LeaseWeb Netherlands B.V.,139.84.235.230
-http,111.119.162.248,10951,111.119.162.248:10951,Elite,2296,PK,Pakistan,Tando Adam,Connect Communication,149.22.87.204
-http,111.119.162.248,10930,111.119.162.248:10930,Elite,2399,??,Unknown,-,-,8.219.29.193
-http,111.119.162.248,10917,111.119.162.248:10917,Elite,2496,??,Unknown,-,-,47.250.100.32
+http,107.167.18.122,443,107.167.18.122:443,Elite,200,US,United States,Los Angeles,Sharktech,107.167.18.99
+http,184.75.221.82,3118,184.75.221.82:3118,Elite,270,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
+http,108.61.29.163,10001,108.61.29.163:10001,Elite,279,US,United States,Piscataway,The Constant Company,108.61.29.163
+http,34.43.46.91,80,34.43.46.91:80,Elite,286,??,Unknown,-,-,34.143.51.195
+http,34.43.46.91,443,34.43.46.91:443,Elite,331,US,United States,Mountain View,Google LLC,34.143.33.137
+http,165.154.162.73,8888,165.154.162.73:8888,Elite,365,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
+http,51.222.32.203,3177,51.222.32.203:3177,Elite,369,BR,Brazil,Juazeiro do Norte,OVH SAS,51.222.32.203
+http,5.253.63.112,8080,5.253.63.112:8080,Elite,685,NL,The Netherlands,Amsterdam,Hostkey B.V.,5.253.63.112
+http,89.58.42.118,3129,89.58.42.118:3129,Elite,732,DE,Germany,Nuremberg,netcup GmbH,89.58.42.118
+http,43.173.120.13,8899,43.173.120.13:8899,Elite,735,US,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,43.173.120.13
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,751,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,185.4.114.35,8080,185.4.114.35:8080,Elite,763,NL,The Netherlands,Utrecht,Ymor Network,185.4.114.35
+http,51.170.133.249,80,51.170.133.249:80,Elite,858,MA,Morocco,Casablanca,Oracle Corporation,51.170.133.249
+http,154.51.41.113,2020,154.51.41.113:2020,Elite,862,US,United States,Los Angeles,Easy Link LLC,9.249.82.115
+http,185.250.249.181,8443,185.250.249.181:8443,Elite,905,DE,Germany,Germering,IP- www.ip-projects.de,185.250.249.181
+http,4.144.146.21,80,4.144.146.21:80,Elite,922,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,49.147.63.121,8080,49.147.63.121:8080,Elite,998,PH,Philippines,Calamba,Philippine Long Distance Telephone Co.,49.147.13.195
+http,101.109.218.117,8080,101.109.218.117:8080,Elite,1114,TH,Thailand,Bangkok,TOT Public Company Limited,101.109.218.117
+http,103.172.122.46,8080,103.172.122.46:8080,Elite,1125,ID,Indonesia,Praya,PRIME,103.172.122.46
+http,45.195.105.20,8080,45.195.105.20:8080,Elite,1233,IN,India,Mumbai,Real Time Data Services Private Limited,45.195.105.20
+http,178.92.72.154,8080,178.92.72.154:8080,Elite,1249,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.154
+http,178.92.72.162,8080,178.92.72.162:8080,Elite,1254,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.162
+http,43.109.48.180,9999,43.109.48.180:9999,Elite,1288,VN,Vietnam,Hanoi,"Zhejiang Taobao Network Co., Ltd",43.109.48.180
+http,102.244.78.61,8081,102.244.78.61:8081,Elite,1299,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8087,102.244.78.61:8087,Elite,1300,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8083,102.244.78.61:8083,Elite,1302,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8089,102.244.78.61:8089,Elite,1306,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8080,102.244.78.61:8080,Elite,1307,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8084,102.244.78.61:8084,Elite,1308,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8082,102.244.78.61:8082,Elite,1312,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8085,102.244.78.61:8085,Elite,1313,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8090,102.244.78.61:8090,Elite,1357,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
+http,102.244.78.61,8088,102.244.78.61:8088,Elite,1358,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8086,102.244.78.61:8086,Elite,1362,??,Unknown,-,-,102.244.78.57
+http,161.33.8.226,1314,161.33.8.226:1314,Elite,1384,JP,Japan,Osaka,Oracle Corporation,161.33.8.226
+http,144.31.146.190,8080,144.31.146.190:8080,Elite,1465,IN,India,Mumbai,Micro Hosting Private Limited,144.31.146.190
+http,144.31.146.10,8080,144.31.146.10:8080,Elite,1494,IN,India,Mumbai,Micro Hosting Private Limited,144.31.146.10
+http,178.92.72.68,8080,178.92.72.68:8080,Elite,1495,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.68
+http,210.211.113.35,80,210.211.113.35:80,Elite,1511,VN,Vietnam,Ho Chi Minh City,VTDC,210.211.113.35
+http,103.125.19.94,8080,103.125.19.94:8080,Elite,1593,ID,Indonesia,Kresek,JAVAMEDIA,103.125.19.94
+http,80.225.250.95,8888,80.225.250.95:8888,Elite,1751,IN,India,Mumbai,Oracle Corporation,80.225.250.95
+http,118.71.44.176,2029,118.71.44.176:2029,Elite,1796,VN,Vietnam,Hanoi,Vietnam Internet Network Information Center,118.71.44.176
+http,201.7.31.217,8080,201.7.31.217:8080,Elite,1803,TR,Turkey,Istanbul,High Speed For Internet Services L.L.C,201.7.31.217
+http,43.109.48.179,9999,43.109.48.179:9999,Elite,1827,VN,Vietnam,Hanoi,"Zhejiang Taobao Network Co., Ltd",43.109.48.179
+http,65.109.219.108,2000,65.109.219.108:2000,Elite,1840,FI,Finland,Helsinki,Hetzner Online GmbH,65.109.219.108
+http,62.72.43.79,3129,62.72.43.79:3129,Elite,1911,IN,India,Mumbai,Contabo Asia Private Limited,83.147.217.103
+http,41.216.191.85,8080,41.216.191.85:8080,Elite,2184,ID,Indonesia,South Jakarta,Perwira,103.86.116.38
+http,161.22.33.109,999,161.22.33.109:999,Elite,2185,VE,Venezuela,Caracas,"THUNDERNET, C.A",161.22.33.107
+http,210.211.113.33,80,210.211.113.33:80,Elite,2224,VN,Vietnam,Ho Chi Minh City,VTDC,210.211.113.33
+http,163.61.245.15,3125,163.61.245.15:3125,Elite,2438,ID,Indonesia,Kota Sambas,PT NAOMI AURORA TEKNOLOGI,163.61.245.15
