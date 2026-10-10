@@ -1,18 +1,22 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,43.173.120.13,8899,43.173.120.13:8899,Elite,151,US,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,43.173.120.13
-http,184.75.221.82,3118,184.75.221.82:3118,Elite,423,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
-http,165.154.162.73,8888,165.154.162.73:8888,Elite,520,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
-http,143.110.161.67,10000,143.110.161.67:10000,Elite,637,GB,United Kingdom,Slough,"DigitalOcean, LLC",143.110.161.67
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,643,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,101.32.94.127,8089,101.32.94.127:8089,Elite,958,JP,Japan,Yokohama,Shenzhen Tencent Computer Systems Company Limited,101.32.94.127
-http,134.185.85.16,3128,134.185.85.16:3128,Elite,994,SG,Singapore,Singapore,Oracle Corporation,134.185.85.16
-http,8.215.25.3,2080,8.215.25.3:2080,Elite,1036,??,Unknown,-,-,8.215.25.3
-http,8.215.25.3,2081,8.215.25.3:2081,Elite,1112,ID,Indonesia,Jakarta,"Alibaba (US) Technology Co., Ltd.",8.215.25.3
-http,178.92.72.194,8080,178.92.72.194:8080,Elite,1147,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.194
-http,178.92.72.229,8080,178.92.72.229:8080,Elite,1153,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.229
-http,34.43.46.91,80,34.43.46.91:80,Elite,1186,US,United States,Mountain View,Google LLC,34.143.51.195
-http,45.195.105.20,8080,45.195.105.20:8080,Elite,1203,IN,India,Mumbai,Real Time Data Services Private Limited,45.195.105.20
-http,111.119.162.248,10942,111.119.162.248:10942,Elite,1590,??,Unknown,-,-,37.19.198.243
-http,111.119.162.248,10923,111.119.162.248:10923,Elite,1818,??,Unknown,-,-,47.253.202.181
-http,111.119.162.248,10928,111.119.162.248:10928,Elite,1860,PK,Pakistan,Tando Adam,Connect Communication,47.90.176.29
-http,8.219.97.248,80,8.219.97.248:80,Elite,2009,SG,Singapore,Singapore,Alibaba Cloud (Singapore) Private Limited,8.219.64.236
+http,43.173.120.13,8899,43.173.120.13:8899,Elite,233,US,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,43.173.120.13
+http,47.254.122.220,5443,47.254.122.220:5443,Elite,369,US,United States,Minkler,Alibaba Cloud LLC,47.254.122.220
+http,54.201.143.198,1001,54.201.143.198:1001,Elite,453,US,United States,Boardman,"Amazon.com, Inc.",54.201.143.198
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,579,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,104.225.162.20,8082,104.225.162.20:8082,Elite,651,US,United States,Charlotte,"iboss, inc",104.225.162.20
+http,194.87.10.245,1234,194.87.10.245:1234,Elite,1016,SG,Singapore,Singapore,Baxet Group Inc.,194.87.10.245
+http,184.75.221.82,3118,184.75.221.82:3118,Elite,1193,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
+http,102.244.78.61,8088,102.244.78.61:8088,Elite,1260,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
+http,178.92.72.162,8080,178.92.72.162:8080,Elite,1279,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.162
+http,190.97.241.106,999,190.97.241.106:999,Elite,1293,VE,Venezuela,Táriba,Viginet C.A,190.97.241.106
+http,210.211.113.35,80,210.211.113.35:80,Elite,1362,VN,Vietnam,Ho Chi Minh City,VTDC,210.211.113.35
+http,103.150.64.69,8090,103.150.64.69:8090,Elite,1515,BD,Bangladesh,Gaibandha,Windstream Communication Limited,103.150.64.68
+http,45.195.91.126,8080,45.195.91.126:8080,Elite,1524,IN,India,Noida,Real Time Data Services Private Limited,45.195.91.126
+http,122.231.180.196,6008,122.231.180.196:6008,Elite,1533,CN,China,Hangzhou,Chinanet,195.245.219.186
+http,34.43.46.91,80,34.43.46.91:80,Elite,1678,US,United States,Mountain View,Google LLC,34.143.51.195
+http,38.194.246.34,999,38.194.246.34:999,Elite,1701,MX,Mexico,Los Ramírez,IENTC S de RL de CV,38.194.246.34
+http,104.168.63.79,8888,104.168.63.79:8888,Elite,1762,US,United States,Buffalo,HostPapa,104.168.63.79
+http,165.154.162.73,8888,165.154.162.73:8888,Elite,1987,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
+http,194.87.197.21,8080,194.87.197.21:8080,Elite,2246,RU,Russia,St Petersburg,LLC Baxet,89.105.219.180
+http,112.203.204.176,8082,112.203.204.176:8082,Elite,2399,PH,Philippines,Quezon City,Philippine Long Distance Telephone Co.,112.203.204.176
+http,116.204.166.200,8080,116.204.166.200:8080,Elite,2451,TR,Turkey,Istanbul,High Speed For Internet Services L.L.C,116.204.166.200
