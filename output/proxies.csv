@@ -1,22 +1,21 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,43.173.120.13,8899,43.173.120.13:8899,Elite,233,US,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,43.173.120.13
-http,47.254.122.220,5443,47.254.122.220:5443,Elite,369,US,United States,Minkler,Alibaba Cloud LLC,47.254.122.220
-http,54.201.143.198,1001,54.201.143.198:1001,Elite,453,US,United States,Boardman,"Amazon.com, Inc.",54.201.143.198
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,579,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,104.225.162.20,8082,104.225.162.20:8082,Elite,651,US,United States,Charlotte,"iboss, inc",104.225.162.20
-http,194.87.10.245,1234,194.87.10.245:1234,Elite,1016,SG,Singapore,Singapore,Baxet Group Inc.,194.87.10.245
-http,184.75.221.82,3118,184.75.221.82:3118,Elite,1193,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
-http,102.244.78.61,8088,102.244.78.61:8088,Elite,1260,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
-http,178.92.72.162,8080,178.92.72.162:8080,Elite,1279,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.162
-http,190.97.241.106,999,190.97.241.106:999,Elite,1293,VE,Venezuela,Táriba,Viginet C.A,190.97.241.106
-http,210.211.113.35,80,210.211.113.35:80,Elite,1362,VN,Vietnam,Ho Chi Minh City,VTDC,210.211.113.35
-http,103.150.64.69,8090,103.150.64.69:8090,Elite,1515,BD,Bangladesh,Gaibandha,Windstream Communication Limited,103.150.64.68
-http,45.195.91.126,8080,45.195.91.126:8080,Elite,1524,IN,India,Noida,Real Time Data Services Private Limited,45.195.91.126
-http,122.231.180.196,6008,122.231.180.196:6008,Elite,1533,CN,China,Hangzhou,Chinanet,195.245.219.186
-http,34.43.46.91,80,34.43.46.91:80,Elite,1678,US,United States,Mountain View,Google LLC,34.143.51.195
-http,38.194.246.34,999,38.194.246.34:999,Elite,1701,MX,Mexico,Los Ramírez,IENTC S de RL de CV,38.194.246.34
-http,104.168.63.79,8888,104.168.63.79:8888,Elite,1762,US,United States,Buffalo,HostPapa,104.168.63.79
-http,165.154.162.73,8888,165.154.162.73:8888,Elite,1987,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
-http,194.87.197.21,8080,194.87.197.21:8080,Elite,2246,RU,Russia,St Petersburg,LLC Baxet,89.105.219.180
-http,112.203.204.176,8082,112.203.204.176:8082,Elite,2399,PH,Philippines,Quezon City,Philippine Long Distance Telephone Co.,112.203.204.176
-http,116.204.166.200,8080,116.204.166.200:8080,Elite,2451,TR,Turkey,Istanbul,High Speed For Internet Services L.L.C,116.204.166.200
+http,43.173.120.13,8899,43.173.120.13:8899,Elite,184,US,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,43.173.120.13
+http,34.43.46.91,80,34.43.46.91:80,Elite,354,US,United States,Mountain View,Google LLC,34.143.51.195
+http,104.225.162.20,8082,104.225.162.20:8082,Elite,512,US,United States,Charlotte,"iboss, inc",104.225.162.20
+http,134.209.29.120,3128,134.209.29.120:3128,Elite,633,GB,United Kingdom,Slough,"DigitalOcean, LLC",134.209.29.120
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,713,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,181.119.224.25,8080,181.119.224.25:8080,Elite,906,EC,Ecuador,Quito,Ufinet Panama S.A.,181.119.224.25
+http,102.244.78.61,8087,102.244.78.61:8087,Elite,1289,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8080,102.244.78.61:8080,Elite,1291,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8084,102.244.78.61:8084,Elite,1292,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8090,102.244.78.61:8090,Elite,1296,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8089,102.244.78.61:8089,Elite,1298,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8088,102.244.78.61:8088,Elite,1346,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8086,102.244.78.61:8086,Elite,1347,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
+http,102.244.78.61,8081,102.244.78.61:8081,Elite,1349,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8085,102.244.78.61:8085,Elite,1350,??,Unknown,-,-,102.244.78.57
+http,190.97.241.106,999,190.97.241.106:999,Elite,1421,VE,Venezuela,Táriba,Viginet C.A,190.97.241.106
+http,45.194.90.194,8080,45.194.90.194:8080,Elite,1488,IN,India,Noida,Shanxi Liyun Breeding Co,45.194.90.194
+http,45.194.3.119,8080,45.194.3.119:8080,Elite,1519,IN,India,Noida,CtrlS,45.194.3.119
+http,38.63.98.55,999,38.63.98.55:999,Elite,1676,VE,Venezuela,Cabimas,Cogent Communications,38.63.98.55
+http,188.72.42.241,47193,188.72.42.241:47193,Elite,2228,IQ,Iraq,Erbil,Pirmam For Information Technology Services Ltd,193.47.189.33
