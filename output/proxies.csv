@@ -1,25 +1,29 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,146.190.60.147,8018,146.190.60.147:8018,Elite,205,US,United States,Santa Clara,"DigitalOcean, LLC",146.190.60.147
-http,104.129.203.85,9480,104.129.203.85:9480,Elite,224,US,United States,San Jose,"ZSCALER, INC.",104.129.203.85
-http,104.225.162.20,8082,104.225.162.20:8082,Elite,317,US,United States,Charlotte,"iboss, inc",104.225.162.20
-http,34.43.46.91,443,34.43.46.91:443,Elite,546,US,United States,Mountain View,Google LLC,35.235.153.76
-http,38.194.246.34,999,38.194.246.34:999,Elite,634,MX,Mexico,Los Ramírez,IENTC S de RL de CV,206.135.47.106
-http,51.224.132.72,80,51.224.132.72:80,Elite,746,DE,Germany,Berlin,"Amazon.com, Inc.",51.224.132.72
-http,3.35.49.14,8080,3.35.49.14:8080,Elite,770,KR,South Korea,Incheon,"Amazon.com, Inc.",3.35.49.14
-http,64.76.106.119,999,64.76.106.119:999,Elite,946,PE,Peru,Lima,Loa Network,38.210.4.190
-http,178.92.72.165,8080,178.92.72.165:8080,Elite,1165,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.165
-http,201.190.41.246,999,201.190.41.246:999,Elite,1275,HN,Honduras,La Ceiba,"TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",201.190.41.246
-http,102.244.78.61,8084,102.244.78.61:8084,Elite,1507,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
-http,102.244.78.61,8085,102.244.78.61:8085,Elite,1508,??,Unknown,-,-,102.244.78.57
-http,154.201.127.46,8080,154.201.127.46:8080,Elite,1547,IN,India,Noida,Real Time Data Services Private Limited,154.201.127.46
-http,49.145.58.197,8082,49.145.58.197:8082,Elite,1565,PH,Philippines,Bacolod City,Philippine Long Distance Telephone Co.,49.145.58.197
-http,38.196.216.19,999,38.196.216.19:999,Elite,1859,DO,Dominican Republic,Boca Chica,Cogent Communications,38.196.216.20
-http,38.211.68.74,999,38.211.68.74:999,Elite,1996,CO,Colombia,Popayán,Cogent Communications,38.211.68.74
-http,38.211.25.242,8080,38.211.25.242:8080,Elite,2083,ID,Indonesia,Denpasar,PT Putra Garsel Interkoneksi,38.211.25.242
-http,36.64.241.218,8080,36.64.241.218:8080,Elite,2177,ID,Indonesia,Jakarta,PT. Telekomunikasi Indonesia,36.64.241.218
-http,118.179.84.131,81,118.179.84.131:81,Elite,2184,BD,Bangladesh,Barishal,AmberIT Limited,118.179.84.131
-http,103.175.240.80,7777,103.175.240.80:7777,Elite,2279,ID,Indonesia,Comal,LDP,103.175.240.80
-http,210.79.140.156,8181,210.79.140.156:8181,Elite,2382,ID,Indonesia,Gianyar,PT Era Zia Sakti,210.79.140.255
-http,80.65.211.149,8888,80.65.211.149:8888,Elite,2413,FR,France,Lauterbourg,Contabo GmbH,103.237.102.191
-http,159.194.228.40,8888,159.194.228.40:8888,Elite,2445,RU,Russia,St Petersburg,Beget LLC,169.150.224.227
-http,160.22.198.4,8082,160.22.198.4:8082,Elite,2500,ID,Indonesia,Terbanggi Besar,PT Ganesha Data Nusantara,160.22.198.4
+http,108.61.29.163,10001,108.61.29.163:10001,Elite,48,US,United States,Piscataway,The Constant Company,108.61.29.163
+http,34.43.46.91,80,34.43.46.91:80,Elite,389,??,Unknown,-,-,34.143.51.195
+http,104.129.203.85,9480,104.129.203.85:9480,Elite,433,US,United States,San Jose,"ZSCALER, INC.",104.129.203.85
+http,64.181.247.193,443,64.181.247.193:443,Elite,578,US,United States,San Jose,Oracle Corporation,64.181.247.193
+http,34.43.46.91,443,34.43.46.91:443,Elite,819,US,United States,Mountain View,Google LLC,35.235.153.76
+http,194.163.129.217,40000,194.163.129.217:40000,Elite,879,FR,France,Lauterbourg,Contabo GmbH,194.163.129.217
+http,38.194.246.34,999,38.194.246.34:999,Elite,993,MX,Mexico,Los Ramírez,IENTC S de RL de CV,206.135.47.106
+http,178.92.72.229,8080,178.92.72.229:8080,Elite,1045,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.229
+http,165.154.162.73,8888,165.154.162.73:8888,Elite,1085,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
+http,102.244.78.61,8088,102.244.78.61:8088,Elite,1139,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
+http,102.244.78.61,8083,102.244.78.61:8083,Elite,1140,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8086,102.244.78.61:8086,Elite,1141,??,Unknown,-,-,102.244.78.57
+http,4.144.146.21,80,4.144.146.21:80,Elite,1149,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,102.244.78.61,8080,102.244.78.61:8080,Elite,1177,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8085,102.244.78.61:8085,Elite,1180,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8087,102.244.78.61:8087,Elite,1184,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8090,102.244.78.61:8090,Elite,1186,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8082,102.244.78.61:8082,Elite,1192,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8081,102.244.78.61:8081,Elite,1194,??,Unknown,-,-,102.244.78.57
+http,202.58.77.239,8080,202.58.77.239:8080,Elite,1283,ID,Indonesia,Blitar,PT Data Buana Nusantara,202.58.79.34
+http,51.224.132.72,80,51.224.132.72:80,Elite,1286,DE,Germany,Berlin,"Amazon.com, Inc.",51.224.132.72
+http,160.187.174.37,8080,160.187.174.37:8080,Elite,1311,ID,Indonesia,Deli Serdang,PT Netindo Persada Nusantara,160.187.174.37
+http,144.31.146.190,8080,144.31.146.190:8080,Elite,1411,IN,India,Mumbai,Micro Hosting Private Limited,144.31.146.190
+http,8.219.97.248,80,8.219.97.248:80,Elite,1424,SG,Singapore,Singapore,Alibaba Cloud (Singapore) Private Limited,8.219.64.236
+http,45.195.90.142,8080,45.195.90.142:8080,Elite,1460,IN,India,Noida,Shanxi Liyun Breeding Co,45.195.90.142
+http,38.188.201.10,999,38.188.201.10:999,Elite,1512,VE,Venezuela,Valera,"SPEEDNET, C.A",38.188.201.14
+http,47.242.218.151,9002,47.242.218.151:9002,Elite,1639,HK,Hong Kong,Hong Kong,Alibaba.com LLC,8.210.149.36
+http,154.223.77.54,10001,154.223.77.54:10001,Elite,1809,HK,Hong Kong,Hong Kong,Kaopu Cloud HK Limited,154.223.77.54
