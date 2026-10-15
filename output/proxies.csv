@@ -1,26 +1,23 @@
 protocol,ip,port,proxy,anonymity,latency_ms,country_code,country,city,isp,egress_ip
-http,104.129.203.85,9480,104.129.203.85:9480,Elite,93,US,United States,San Jose,"ZSCALER, INC.",104.129.203.85
-http,165.154.162.73,8888,165.154.162.73:8888,Elite,162,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
-http,108.61.29.163,10001,108.61.29.163:10001,Elite,318,US,United States,Piscataway,The Constant Company,108.61.29.163
-http,34.43.46.91,443,34.43.46.91:443,Elite,355,US,United States,Mountain View,Google LLC,34.143.33.137
-http,148.0.27.243,999,148.0.27.243:999,Elite,600,DO,Dominican Republic,Santo Domingo,Compañía Dominicana de Teléfonos S. A.,148.0.27.243
-http,103.237.102.191,11111,103.237.102.191:11111,Elite,694,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
-http,161.10.122.13,999,161.10.122.13:999,Elite,823,CO,Colombia,Santa Marta,Colombia Telecomunicaciones S.a. ESP BIC,161.10.122.13
-http,103.154.77.19,8085,103.154.77.19:8085,Elite,1068,ID,Indonesia,Sleman,T2NET,103.154.77.19
-http,194.124.36.198,8080,194.124.36.198:8080,Elite,1143,TR,Türkiye,Antakya,High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.,194.124.36.198
-http,150.241.245.249,8080,150.241.245.249:8080,Elite,1174,IN,India,Bengaluru,Micro Hosting Private Limited,150.241.245.249
-http,178.92.72.129,8080,178.92.72.129:8080,Elite,1182,IN,India,Mumbai,Micro Hosting Private Limited,178.92.72.129
-http,109.122.240.157,8118,109.122.240.157:8118,Elite,1468,IR,Iran,Tehran,Avini cultural and Art Institute,109.122.240.157
-http,45.195.91.219,8080,45.195.91.219:8080,Elite,1547,IN,India,Noida,Real Time Data Services Private Limited,45.195.91.219
-http,210.211.113.35,80,210.211.113.35:80,Elite,1657,VN,Vietnam,Ho Chi Minh City,VTDC,210.211.113.35
-http,181.79.173.7,999,181.79.173.7:999,Elite,1828,HN,Honduras,San Pedro Sula,UFINET,181.79.173.7
-http,146.190.60.147,8005,146.190.60.147:8005,Elite,1920,US,United States,Santa Clara,"DigitalOcean, LLC",146.190.60.147
-http,103.173.230.250,8080,103.173.230.250:8080,Elite,2053,ID,Indonesia,Ciherang,PT. Jaringan Internet Banten,103.173.230.250
-http,45.179.201.121,999,45.179.201.121:999,Elite,2096,CO,Colombia,Bogotá,NET&COM LTDA.,45.179.201.26
-http,45.198.20.246,8080,45.198.20.246:8080,Elite,2108,ID,Indonesia,Bekasi,PT IKHLAS CIPTA TEKNOLOGI,45.198.20.246
-http,47.242.218.151,9020,47.242.218.151:9020,Elite,2167,HK,Hong Kong,Hong Kong,Alibaba.com LLC,47.242.181.198
-http,222.167.236.41,8080,222.167.236.41:8080,Elite,2207,TR,Turkey,Kilis,High Speed For Internet Services L.L.C,222.167.236.41
-http,120.39.48.225,10888,120.39.48.225:10888,Elite,2257,CN,China,Fuzhou,Chinanet,45.78.57.196
-http,184.75.221.82,3118,184.75.221.82:3118,Elite,2316,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
-http,58.27.160.253,8080,58.27.160.253:8080,Elite,2465,PK,Pakistan,Islamabad,Wateen Telecom Limited,58.27.160.253
-http,177.12.140.108,8080,177.12.140.108:8080,Elite,2466,BR,Brazil,Barroquinha,Maria P. Fontenele Souza,177.12.140.108
+http,104.129.203.85,9480,104.129.203.85:9480,Elite,292,US,United States,San Jose,"ZSCALER, INC.",104.129.203.85
+http,103.237.102.191,11111,103.237.102.191:11111,Elite,551,DE,Germany,Frankfurt am Main,Zenlayer Inc,103.237.102.191
+http,165.154.162.73,8888,165.154.162.73:8888,Elite,823,US,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,165.154.162.73
+http,4.144.146.21,80,4.144.146.21:80,Elite,1080,SG,Singapore,Singapore,Microsoft Corporation,20.44.210.140
+http,80.65.211.149,8888,80.65.211.149:8888,Elite,1166,FR,France,Lauterbourg,Contabo GmbH,3.88.46.135
+http,102.244.78.61,8082,102.244.78.61:8082,Elite,1178,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8084,102.244.78.61:8084,Elite,1181,CM,Cameroon,Douala,Orange CAM INTERNET,102.244.78.57
+http,102.244.78.61,8086,102.244.78.61:8086,Elite,1194,??,Unknown,-,-,102.244.78.57
+http,202.58.77.239,8080,202.58.77.239:8080,Elite,1205,ID,Indonesia,Blitar,PT Data Buana Nusantara,202.58.79.106
+http,102.244.78.61,8083,102.244.78.61:8083,Elite,1213,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8088,102.244.78.61:8088,Elite,1216,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8080,102.244.78.61:8080,Elite,1222,??,Unknown,-,-,102.244.78.57
+http,102.244.78.61,8090,102.244.78.61:8090,Elite,1223,??,Unknown,-,-,102.244.78.57
+http,179.60.189.81,999,179.60.189.81:999,Elite,1283,EC,Ecuador,Quito,Eliana Vanessa Morocho Oña,179.60.189.81
+http,143.198.90.221,3129,143.198.90.221:3129,Elite,1342,SG,Singapore,Singapore,"DigitalOcean, LLC",143.198.90.221
+http,8.215.25.3,2080,8.215.25.3:2080,Elite,1385,ID,Indonesia,Jakarta,"Alibaba (US) Technology Co., Ltd.",8.215.25.3
+http,184.75.221.82,3118,184.75.221.82:3118,Elite,1486,CA,Canada,Toronto,Amanah Tech Inc.,184.75.221.82
+http,8.219.97.248,80,8.219.97.248:80,Elite,1706,SG,Singapore,Singapore,Alibaba Cloud (Singapore) Private Limited,8.219.64.236
+http,116.104.251.199,2111,116.104.251.199:2111,Elite,1784,VN,Vietnam,Hanoi,Viettel Group,58.187.26.252
+http,206.135.47.110,999,206.135.47.110:999,Elite,2271,MX,Mexico,Puebla City,Ientc S De RL De CV,206.135.47.106
+http,160.179.187.115,3129,160.179.187.115:3129,Elite,2357,MA,Morocco,Beni Mellal,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,105.158.159.249
+http,38.7.195.51,999,38.7.195.51:999,Elite,2456,CL,Chile,Santiago,Grupo ZGH SpA,151.241.85.26
